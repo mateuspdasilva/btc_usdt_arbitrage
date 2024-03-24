@@ -16,9 +16,8 @@ python3 main.py
 
 ## Notes
 
-    Exchange Selection: This script currently focuses on specific exchanges and trading pairs. Feel free to customize it to fit your preferred exchanges or trading pairs.
-
-    Performance Considerations: The efficiency of arbitrage strategies heavily depends on the speed of execution. While Python is used here for simplicity and readability, it may not be the ideal choice for high-frequency trading. For future projects requiring faster execution, I'll consider using languages like C++ or Go.
+* Exchange Selection: This script currently focuses on specific exchanges and trading pairs. Feel free to customize it to fit your preferred exchanges or trading pairs.
+* Performance Considerations: The efficiency of arbitrage strategies heavily depends on the speed of execution. While Python is used here for simplicity and readability, it may not be the ideal choice for high-frequency trading. For future projects requiring faster execution, I'll consider using languages like C++ or Go.
 
 ## Disclaimer
 
