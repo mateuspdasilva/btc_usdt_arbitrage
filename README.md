@@ -2,7 +2,7 @@
 
 This project provides a basic framework for exploring potential arbitrage opportunities between BTC/USDT trading pairs on different exchanges. Please note that this is a conceptual sketch and does not execute any actual trading operations. Instead, it calculates and displays the price differences between exchanges.
 
-![Alt text](<Captura de Tela 2024-03-24 às 19.57.19.png>)
+![screenshot](screenshot.png)
 
 ## Overview
 
